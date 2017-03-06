@@ -1,4 +1,3 @@
 *.h linguist-language=c++
 *.m linguist-language=c++
-*.h linguist-language=nasm
-*.m linguist-language=nasm
+*.asm linguist-language=nasm
