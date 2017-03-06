@@ -1,6 +1,6 @@
 
 ## # VChdlocker
-##### <img src="emoji/lock" width="30"/>vc和汇编（nasm）编写的硬盘锁
+##### vc和汇编（nasm）编写的硬盘锁
 ###### 主要原理：
 >在电脑开机自检主板内存进入硬盘时间对windows启动的删除和分区表硬盘MBR异或加密
 
