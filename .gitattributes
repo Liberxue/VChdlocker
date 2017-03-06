@@ -1,2 +1,4 @@
-*.h linguist-language=c++ / nasm
-*.m linguist-language=c++ / nasm
+*.h linguist-language=c++
+*.m linguist-language=c++
+*.h linguist-language=nasm
+*.m linguist-language=nasm
