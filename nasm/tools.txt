@@ -1,0 +1,1 @@
+nasm.exe bin.asm -o bin
