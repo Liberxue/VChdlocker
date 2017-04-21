@@ -2,8 +2,7 @@
 ## # VChdlocker
 ##### vc和汇编（nasm）编写的硬盘锁
 ###### 主要原理：
->在电脑开机自检主板内存进入硬盘时间对windows启动的删除和分区表硬盘MBR异或加密
-
+>The computer post board memory enters hard disk time for Windows startup deletion and partition table hard disk MBR XOR encryption
 
 ###### 请勿用于非法勒索谢谢
 ###### 此代码和原理在网上学习不少大神和方法，找不到署名，再次表示感谢。
